@@ -14,7 +14,7 @@ class Text extends Component {
                 <input type="radio" name="fcity1" id="Los Angeles"/>
                 <label for = "Los Angeles">Los Angeles</label><br/>
                 <input type="radio" name="fcity2" id="San Francisco"/>
-                <label for = "San Francisco">Dark Knight</label><br/>
+                <label for = "San Francisco">San Francisco</label><br/>
                 <input type="radio" name="fcity3" id="Washington D.C."/>
                 <label for = "Washington D.C.">Washington D.C.</label><br/><br/>
                 <input type="Submit" name="submit" value="Done"/>
